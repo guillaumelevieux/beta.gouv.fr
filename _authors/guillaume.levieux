@@ -1,0 +1,15 @@
+---
+fullname: Guillaume Levieux # penser à modifier le nom du fichier ci-dessus !
+role: Intrapreneur Camino
+# ci-dessous, tu peux aussi remplacer sgmap-bot par ton propre pseudo Github
+# ou bien fournir l'URL (HTTPS obligatoire) d'une image carrée 512x512 minimum
+# ou bien uploader un fichier JPG en 512x512 du même nom que ce fichier dans /img/authors et effacer cette ligne
+avatar: https://media.licdn.com/media/p/4/000/161/2c8/0ef6647.jpg
+# link: # optionnel : lien vers une page perso externe. Effacer cette ligne si rien à mettre.
+start: 2017-12-15 # date d'arrivée au format ISO (AAAA-MM-JJ)
+end: 2018-06-30 # date de fin de contrat au format ISO (AAAA-MM-JJ)
+employer: Ministère de la transition écologique et solidaire # dinsic ou independent/<employer> ou admin/<employer> ou service/octo
+github: guillaumelevieux
+---
+
+Dans tous mes jobs, volcanologue, journaliste scientifique et aujourd’hui intrapreneur de l’Etat, l'expérience du terrain est fondamentale pour dépasser les idées reçues, mieux comprendre le monde, faire un pas de côté pour progresser, mieux servir la connaissance et l’intérêt général.
